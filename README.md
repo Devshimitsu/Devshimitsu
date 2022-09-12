@@ -1,43 +1,61 @@
-![MasterHead](https://yt3.ggpht.com/SQ7Kt9-2-9bbzGFc1Drk3DJ-8ZS8H8IvizleRrH9uBJQPjUfkpoRxiJnMLRmdxRCrgiF2NpMdIk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
-### Hi there, I'm Kartik 👋
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-- 🔭 I’m currently working @ [Devshimitsu YouTube channel][website]
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love Music
+### <div align="center">Localhost Refused To Connect</div>  
+  
 
-### Connect with me:
-<a href="mailto:kartikbisht2006@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="22px"></a>
-[<img align="left" alt="Devshimitsu" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Devshimitsu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Devshimitsu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Devshimitsu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Devshimitsu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/devshimitsu" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/devshimtisu" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/devshimitsu" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/kartik.bisht.1481" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/devshimitsu" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/devshimitsu" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a href="https://dribbble.com/devshimitsu" target="_blank">
+<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/user/devshimitsu" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=devshimitsu&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" style="width: 100%" /></div>  
+
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ugizxxoop54yvrgix5xzplf5k4&cover_image=true&theme=compact" /></div>
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=devshimitsu&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
 
 <br />
-
-
-<br />
-<br />
-
----
-
-<a href="https://github-readme-stats.vercel.app/api?username=Devshimitsu&show_icons=true&include_all_commits=true&theme=radical" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Devshimitsu&show_icons=true&include_all_commits=true&theme=radical" alt="devshimitsu's github stats" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Devshimitsu&layout=compact&theme=radical" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devshimitsu&layout=compact&theme=radical" />
-</a>
-
-<a href="https://github-readme-stats.vercel.app/api/pin/?username=Devshimitsu&repo=Node_Js_Weather_App&theme=radical" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devshimitsu&repo=Node_Js_Weather_App&theme=radical" />
-</a>    
-<a href="https://github-readme-stats.vercel.app/api/pin/?username=Devshimitsu&repo=Whatsup&theme=radical" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devshimitsu&repo=Whatsup&theme=radical" />
-</a>
-
-[website]: https://www.youtube.com/channel/UCkzDs2o8TAQammgxia_GTPQ
-[twitter]: https://twitter.com/Kartik28634031
-[facebook]: https://www.facebook.com/kartik.bisht.1481
-[youtube]: https://www.youtube.com/channel/UCkzDs2o8TAQammgxia_GTPQ
-[instagram]: https://www.instagram.com/devshimitsu/
