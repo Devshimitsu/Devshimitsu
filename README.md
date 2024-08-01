@@ -42,7 +42,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=devshimitsu&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" style="width: 70%" /></div>  
+<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api?username=devshimitsu&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" style="width: 70%" /></div>  
 
 <br/>  
 
