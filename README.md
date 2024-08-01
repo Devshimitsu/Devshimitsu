@@ -42,13 +42,13 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api?username=devshimitsu&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" style="width: 70%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=devshimitsu&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" style="width: 70%" /></div>  
 
 <br/>  
 
 ## 
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ugizxxoop54yvrgix5xzplf5k4&cover_image=true" /></div>
+<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ugizxxoop54yvrgix5xzplf5k4&cover_image=true" /></div>
 
 <br/>  
 
