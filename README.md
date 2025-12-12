@@ -1,5 +1,5 @@
 # 💫 About Me
-🎓 B.Tech student at **GJ University of Science & Technology, Hisar**  
+🎓 B.Tech student at **GJUST, Hisar**  
 🕵️ Passionate about **ethical hacking**, CTFs, and security research  
 🧠 Exploring **web security, reverse engineering, scripting, and automations**  
 📚 Always leveling up with new tools, exploits, and tech  
